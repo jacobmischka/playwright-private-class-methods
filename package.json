@@ -1,0 +1,23 @@
+{
+  "name": "playwright-private-class-methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobmischka/playwright-private-class-methods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobmischka/playwright-private-class-methods/issues"
+  },
+  "homepage": "https://github.com/jacobmischka/playwright-private-class-methods#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.19.0-beta-1644607744000",
+    "typescript": "^4.5.5"
+  }
+}
